@@ -1,0 +1,6 @@
+Model,Accuracy,F1-Score,ROC-AUC,MCC
+XGBoost (Proposed),1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
+Gradient Boosting,1.0,1.0,1.0,1.0
+MLP (Neural Net),1.0,1.0,1.0,1.0
+Logistic Regression,0.9996,0.9996,0.9998,0.9991

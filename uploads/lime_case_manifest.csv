@@ -1,0 +1,3 @@
+test_row_index,true_label,predicted_label,malware_prob,correct,output_png,output_html
+1,Malware,Malware,0.999961,True,malware_lime.png,malware_lime.html
+0,Benign,Benign,9.2e-05,True,benign_lime.png,benign_lime.html
